@@ -1,2 +1,1 @@
-console.log("This is for testing);
-            
+console.log("Testing successful");          
